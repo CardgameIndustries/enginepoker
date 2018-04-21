@@ -1,4 +1,4 @@
 # EnginePoker
 Prototype testing engine for card games
 
-https://gist.github.com/joshuacox/4fae39012ff27a6bcc5e02751a6b5cbb
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/CardgameIndustries/enginepoker.svg?columns=all)](https://waffle.io/CardgameIndustries/enginepoker)
