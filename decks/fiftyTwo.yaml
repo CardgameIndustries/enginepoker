@@ -16,7 +16,7 @@
       hierarchicalValue: 52
     2:
       name: 'Deuce of Spades'
-      face: 'faces/SVG-cards-1.3/deuce_of_spades.svg'
+      face: 'faces/SVG-cards-1.3/2_of_spades.svg'
       back: 'backs/Reverso_baraja.svg'
       species: deuce
       suit: spades
@@ -120,7 +120,7 @@
       hierarchicalValue: 51
     15:
       name: 'Deuce of Hearts'
-      face: 'faces/SVG-cards-1.3/deuce_of_hearts.svg'
+      face: 'faces/SVG-cards-1.3/2_of_hearts.svg'
       back: 'backs/Reverso_baraja.svg'
       species: deuce
       suit: hearts
@@ -224,7 +224,7 @@
       hierarchicalValue: 50
     28:
       name: 'Deuce of Diamonds'
-      face: 'faces/SVG-cards-1.3/deuce_of_diamonds.svg'
+      face: 'faces/SVG-cards-1.3/2_of_diamonds.svg'
       back: 'backs/Reverso_baraja.svg'
       species: deuce
       suit: diamonds
@@ -328,7 +328,7 @@
       hierarchicalValue: 49
     41:
       name: 'Deuce of Clubs'
-      face: 'faces/SVG-cards-1.3/deuce_of_clubs.svg'
+      face: 'faces/SVG-cards-1.3/2_of_clubs.svg'
       back: 'backs/Reverso_baraja.svg'
       species: deuce
       suit: clubs
