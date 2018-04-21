@@ -422,3 +422,21 @@
       suit: clubs
       value: 13
       hierarchicalValue: 45
+    53:
+      name: 'Black Joker'
+      face: 'faces/SVG-cards-1.3/black_joker.svg'
+      back: 'backs/Reverso_baraja.svg'
+      species: joker
+      suit: null
+      color: black
+      value: 15
+      hierarchicalValue: 53
+    54:
+      name: 'Red Joker'
+      face: 'faces/SVG-cards-1.3/red_joker.svg'
+      back: 'backs/Reverso_baraja.svg'
+      species: joker
+      suit: null
+      color: red
+      value: 15
+      hierarchicalValue: 54
